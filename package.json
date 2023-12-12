@@ -1,0 +1,26 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "Practice with Jest for testing",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OKEnterprises/jest-practice.git"
+  },
+  "author": "Garret O'Connor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OKEnterprises/jest-practice/issues"
+  },
+  "homepage": "https://github.com/OKEnterprises/jest-practice#readme",
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-n": "^16.4.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
